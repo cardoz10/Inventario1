@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="700"
+   viewBox="0 0 317.49999 185.20834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="RF01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-others="false"
+     inkscape:zoom="0.74642639"
+     inkscape:cx="492.34594"
+     inkscape:cy="326.89091"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1862"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1860" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1475"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.49019608;"
+         offset="0"
+         id="stop1473" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1447"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1443" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1445" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1421"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1419" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1377"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1375" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1369"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1367" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1363"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1361" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1357"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1355" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1099"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.44705883;"
+         offset="0"
+         id="stop1097" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1093"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000001;stop-opacity:0.02352941;"
+         offset="0"
+         id="stop1091" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1093"
+       id="linearGradient1095"
+       x1="6.7348676"
+       y1="119.98699"
+       x2="303.42353"
+       y2="119.98699"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.1268005,-0.70893349)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1099"
+       id="linearGradient1101"
+       x1="6.7348676"
+       y1="119.98699"
+       x2="303.42352"
+       y2="119.98699"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.1268005,-0.70893349)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1099"
+       id="linearGradient1365"
+       x1="194.64719"
+       y1="82.236282"
+       x2="295.58032"
+       y2="82.236282"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1099"
+       id="linearGradient1477"
+       x1="48.606892"
+       y1="115.91063"
+       x2="160.52849"
+       y2="115.91063"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.70893349,-34.028808)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1099"
+       id="linearGradient1589"
+       gradientUnits="userSpaceOnUse"
+       x1="48.606892"
+       y1="115.91063"
+       x2="160.52849"
+       y2="115.91063"
+       gradientTransform="translate(-1.4178685,-3.1902024)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1099"
+       id="linearGradient1702"
+       gradientUnits="userSpaceOnUse"
+       x1="194.64719"
+       y1="82.236282"
+       x2="295.58032"
+       y2="82.236282"
+       gradientTransform="translate(0.53169735,31.902012)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1099"
+       id="linearGradient1864"
+       x1="8.3749094"
+       y1="56.36021"
+       x2="40.895966"
+       y2="56.36021"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="43.377522"
+       y="57.730137"
+       id="text52609"><tspan
+         sodipodi:role="line"
+         id="tspan52607"
+         style="stroke-width:0.264583"
+         x="43.377522"
+         y="57.730137">precios</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.161589"
+       y="57.949776"
+       id="text44503"><tspan
+         sodipodi:role="line"
+         id="tspan44501"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="15.161589"
+         y="57.949776">detalle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="70.040756"
+       y="58.157101"
+       id="text53933"><tspan
+         sodipodi:role="line"
+         id="tspan53931"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="70.040756"
+         y="58.157101">lista de productos</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1864);stroke-width:0.28039;stroke-opacity:0.3114754"
+       id="rect1727"
+       width="32.240665"
+       height="12.744991"
+       x="8.5151043"
+       y="49.987713" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect1729"
+       width="4.7683716e-07"
+       height="7.5199102e-15"
+       x="6.7348676"
+       y="56.005745" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect1731"
+       width="4.7683716e-07"
+       height="0.35446674"
+       x="6.7348676"
+       y="56.005745" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect1733"
+       width="4.7683716e-07"
+       height="0.35446674"
+       x="6.7348676"
+       y="56.360214" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="172.27084"
+       y="81.527351"
+       id="text70201"><tspan
+         sodipodi:role="line"
+         id="tspan70199"
+         style="stroke-width:0.264583"
+         x="172.27084"
+         y="81.527351">titulo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="168.72617"
+       y="113.07489"
+       id="text76521"><tspan
+         sodipodi:role="line"
+         id="tspan76519"
+         style="stroke-width:0.264583"
+         x="168.72617"
+         y="113.07489">categoria</tspan></text>
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke-width:0.264583"
+       id="rect1436"
+       width="330.39722"
+       height="22.103027"
+       x="-5.4539938"
+       y="-0.2870523" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';white-space:pre;inline-size:87.2282;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.879889"
+       y="13.491458"
+       id="text3433"
+       transform="translate(1.4352615,1.4352615)"><tspan
+         x="4.879889"
+         y="13.491458"
+         id="tspan36958"><tspan
+           style="font-style:normal;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan36956">Supermercado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="262.07877"
+       y="17.797243"
+       id="text20913"><tspan
+         sodipodi:role="line"
+         id="tspan20911"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="262.07877"
+         y="17.797243">Iniciar sesion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.6115685"
+       y="41.335529"
+       id="text34859"><tspan
+         sodipodi:role="line"
+         id="tspan34857"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+         x="8.6115685"
+         y="41.335529">Agregar producto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="19.850138"
+       y="81.172882"
+       id="text65071"><tspan
+         sodipodi:role="line"
+         id="tspan65069"
+         style="stroke-width:0.264583"
+         x="19.850138"
+         y="81.172882">codigo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="17.014404"
+       y="73.374611"
+       id="text65075"><tspan
+         sodipodi:role="line"
+         id="tspan65073"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="17.014404"
+         y="73.374611" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="17.014404"
+       y="112.72043"
+       id="text73691"><tspan
+         sodipodi:role="line"
+         id="tspan73689"
+         style="stroke-width:0.264583"
+         x="17.014404"
+         y="112.72043">empresa</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.815574;stroke-width:0.264583"
+       id="rect181"
+       width="302.36017"
+       height="130.08929"
+       x="6.734868"
+       y="46.789612" />
+    <rect
+       style="fill:url(#linearGradient1095);fill-opacity:1;stroke:url(#linearGradient1101);stroke-width:0.264583"
+       id="rect230"
+       width="296.68866"
+       height="113.78383"
+       x="8.8616676"
+       y="62.386143" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.264583"
+       id="rect1103"
+       width="21.268005"
+       height="8.5072021"
+       x="57.423615"
+       y="76.919289" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.264583"
+       id="rect1105"
+       width="107.04896"
+       height="11.342931"
+       x="57.423615"
+       y="76.919289" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.264583"
+       id="rect1110"
+       width="36.86454"
+       height="11.342931"
+       x="57.423615"
+       y="76.919289" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1477);stroke-width:0.264583;stroke-opacity:1"
+       id="rect1112-7"
+       width="111.65702"
+       height="10.988477"
+       x="48.030247"
+       y="76.387581" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1589);stroke-width:0.264583;stroke-opacity:1"
+       id="rect1112-7-4"
+       width="111.65702"
+       height="10.988477"
+       x="47.321312"
+       y="107.22618" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1365);stroke-width:0.25927;stroke-opacity:1"
+       id="rect1112-8"
+       width="100.67387"
+       height="11.702724"
+       x="194.77682"
+       y="76.384918" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1702);stroke-width:0.25927;stroke-opacity:1"
+       id="rect1112-8-7"
+       width="100.67387"
+       height="11.702724"
+       x="195.30852"
+       y="108.28693" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.311475"
+       id="rect1888"
+       width="256.98837"
+       height="28.002872"
+       x="30.484137"
+       y="138.24203" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="17.014402"
+       y="134.69736"
+       id="text2576"><tspan
+         sodipodi:role="line"
+         id="tspan2574"
+         style="stroke-width:0.264583"
+         x="17.014402"
+         y="134.69736">observaciones :</tspan></text>
+  </g>
+</svg>
