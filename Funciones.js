@@ -39,7 +39,7 @@ class Usuario {
         const productoBorrado = this.productos.splice(indice, 1);
         console.log("Producto borrado:", productoBorrado[0]);
       } else {
-        console.log("Producto no encontrado.");
+        console.log("Producto  agotado.");
       }
     },
   
